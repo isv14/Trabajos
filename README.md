@@ -9,3 +9,4 @@ Listados de trabajos de Sistemas de Representación Avanzada
 * [Grid](https://isv14.github.io/grid/)
 * [StartUp]
 * [Mondrian](https://isv14.github.io/mondrian/)
+[GridAreas] (https://isv14.github.io/gridareas/)
